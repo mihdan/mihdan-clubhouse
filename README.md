@@ -1,2 +1,3 @@
-# mihdan-clubhouse
-Clubhouse for WordPress
+# Clubhouse for WordPress by mihdan
+
+Clubhouse client for WordPress sites
